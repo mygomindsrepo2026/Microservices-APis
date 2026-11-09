@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyApis\\MGMAPIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CEB232-8368-472D-BEF4-F3A174E51FD5}|FirstApi\\FirstApi.csproj|d:\\myapis\\mgmapis\\firstapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CEB232-8368-472D-BEF4-F3A174E51FD5}|FirstApi\\FirstApi.csproj|solutionrelative:firstapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CEB232-8368-472D-BEF4-F3A174E51FD5}|FirstApi\\FirstApi.csproj|d:\\myapis\\mgmapis\\firstapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CEB232-8368-472D-BEF4-F3A174E51FD5}|FirstApi\\FirstApi.csproj|solutionrelative:firstapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CEB232-8368-472D-BEF4-F3A174E51FD5}|FirstApi\\FirstApi.csproj|d:\\myapis\\mgmapis\\firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CEB232-8368-472D-BEF4-F3A174E51FD5}|FirstApi\\FirstApi.csproj|solutionrelative:firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CEB232-8368-472D-BEF4-F3A174E51FD5}|FirstApi\\FirstApi.csproj|d:\\myapis\\mgmapis\\firstapi\\firstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1CEB232-8368-472D-BEF4-F3A174E51FD5}|FirstApi\\FirstApi.csproj|solutionrelative:firstapi\\firstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CEB232-8368-472D-BEF4-F3A174E51FD5}|FirstApi\\FirstApi.csproj|d:\\myapis\\mgmapis\\firstapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CEB232-8368-472D-BEF4-F3A174E51FD5}|FirstApi\\FirstApi.csproj|solutionrelative:firstapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CEB232-8368-472D-BEF4-F3A174E51FD5}|FirstApi\\FirstApi.csproj|d:\\myapis\\mgmapis\\firstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1CEB232-8368-472D-BEF4-F3A174E51FD5}|FirstApi\\FirstApi.csproj|solutionrelative:firstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\MyApis\\MGMAPIS\\FirstApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FirstApi\\Models\\Product.cs",
+              "ToolTip": "D:\\MyApis\\MGMAPIS\\FirstApi\\Models\\Product.cs",
+              "RelativeToolTip": "FirstApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:49:01.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirstApi",
+              "DocumentMoniker": "D:\\MyApis\\MGMAPIS\\FirstApi\\FirstApi.csproj",
+              "RelativeDocumentMoniker": "FirstApi\\FirstApi.csproj",
+              "ToolTip": "D:\\MyApis\\MGMAPIS\\FirstApi\\FirstApi.csproj",
+              "RelativeToolTip": "FirstApi\\FirstApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T15:48:35.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\MyApis\\MGMAPIS\\FirstApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FirstApi\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\MyApis\\MGMAPIS\\FirstApi\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "FirstApi\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAzwDYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:48:25.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\MyApis\\MGMAPIS\\FirstApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FirstApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\MyApis\\MGMAPIS\\FirstApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FirstApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:44:49.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyApis\\MGMAPIS\\FirstApi\\Program.cs",
+              "RelativeDocumentMoniker": "FirstApi\\Program.cs",
+              "ToolTip": "D:\\MyApis\\MGMAPIS\\FirstApi\\Program.cs",
+              "RelativeToolTip": "FirstApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:41:26.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MyApis\\MGMAPIS\\FirstApi\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstApi\\appsettings.json",
+              "ToolTip": "D:\\MyApis\\MGMAPIS\\FirstApi\\appsettings.json",
+              "RelativeToolTip": "FirstApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T15:40:09.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
